@@ -1,2 +1,1 @@
-# teszt
-teszt
+Ősszes
